@@ -90,4 +90,3 @@ Electrical Engineering – Control Systems
 - Electromagnetic Sensing
 - State Estimation
 - Kalman Filtering
-# real-time-electromagnetic-tracking
